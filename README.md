@@ -23,8 +23,7 @@ https://taller6-quantumc.my.canva.site/ia-home
   - Alcides Montoya Cañola
   - Cristian Eliecer Bello Reyes
   - Sergio Quiroga Sandoval
-  - **Equipo: Quantum Computing UNAL** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
+  - **Equipo: Quantum Computing UNAL**
 
 
 ## Licencia
@@ -33,6 +32,9 @@ Este proyecto está sujeto a la licencia CC0 1.0 Universal Creative Commons Lice
 
 ## Agradecimientos
 
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
+  - Universidad Nacional de Colombia
+  - Semillero de Investigación Quantum Computing
+  - Centro de excelencia en computación cuántica e inteligencia artificial
+  - Centro de excelencia en tecnologías cuanticas y sus aplicaciones a metrología
+  - *Provided README Template* -
+    [PurpleBooth](https://github.com/PurpleBooth)
