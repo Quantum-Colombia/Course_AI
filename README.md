@@ -23,15 +23,13 @@ https://taller6-quantumc.my.canva.site/ia-home
   - Alcides Montoya Cañola
   - Cristian Eliecer Bello Reyes
   - Sergio Quiroga Sandoval
-  - **Quantum computing UNAL** - *Provided README Template* -
+  - **Equipo: Quantum Computing UNAL** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
 
 ## Licencia
 
-Este proyecto está sujeto a la licencia [CC0 1.0 Universal](LICENSE.md)
-Creative Commons License - see the [LICENSE.md](LICENSE.md) file for
-details
+Este proyecto está sujeto a la licencia CC0 1.0 Universal Creative Commons License.
 
 ## Agradecimientos
 
