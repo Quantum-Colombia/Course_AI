@@ -12,7 +12,7 @@ Apoyan la Universidad Nacional de Colombia, el centro de excelencia en computaci
 
 ## Sitio web
 
-[Curso Inteligencia Artificial: Auscultando las Redes Neuronales con Python] (https://taller6-quantumc.my.canva.site/ia-home)
+[Curso Inteligencia Artificial: Auscultando las Redes Neuronales con Python](https://taller6-quantumc.my.canva.site/ia-home)
 
 ## Hecho con
 
