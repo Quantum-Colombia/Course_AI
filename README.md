@@ -16,7 +16,7 @@ Apoyan la Universidad Nacional de Colombia, el centro de excelencia en computaci
 
 ## Hecho con
 
-  - Python, jupyter notebooks
+  - Python 3, jupyter notebooks
 
 ## Autores
   - Diego Luis Aristizábal Ramírez
