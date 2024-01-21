@@ -10,28 +10,19 @@ Notebooks para el curso de Inteligencia Artificial llevado a cabo en enero de 20
 Apoyan la Universidad Nacional de Colombia, el centro de excelencia en computación cuántica e inteligencia artificial y el centro de excelencia en tecnologías cuánticas y sus aplicaciones a metrología.
 
 
-## Pagina del curso
+## Sitio web
 
 https://taller6-quantumc.my.canva.site/ia-home
 
-## Built With
+## Hecho con
 
   - Python, jupyter notebooks
-
-## Contributing
-
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code
-of conduct, and the process for submitting pull requests to us.
-
 
 ## Authors
 
   - **Quantum computing UNAL** - *Provided README Template* -
     [PurpleBooth](https://github.com/PurpleBooth)
 
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
 
 ## License
 
