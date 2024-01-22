@@ -8,7 +8,7 @@ Al completar el curso, podrás realizar un examen de conocimientos para obtener 
 
 ### Contenido
 
-En este repositorio, encontrarás los cuadernos de práctica correspondientes a cada módulo. Puedes acceder a ellos en modo de solo lectura; sin embargo, te recomendamos que hagas una copia y los ejecutes directamente en tu ordenador. De esta manera, podrás realizar modificaciones y experimentar con los ejercicios que hemos preparado para ti.
+En este repositorio, encontrarás los cuadernos de práctica correspondientes a cada semana. Puedes acceder a ellos en modo de solo lectura; sin embargo, te recomendamos que hagas una copia y los ejecutes directamente en tu ordenador. De esta manera, podrás realizar modificaciones y experimentar con los ejercicios que hemos preparado para ti.
 
 
 ## Sitio web
