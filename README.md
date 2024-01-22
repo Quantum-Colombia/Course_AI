@@ -1,6 +1,8 @@
 # Machine Learning: Auscultando las Redes Neuronales con Python
 
-Auscultando las Redes Neuronales con Python es un curso teórico-práctico desarrollado por el Semillero de Investigación en Computación Cuántica y sus Centros de Excelencia en colaboración con la Universidad Nacional de Colombia. A lo largo de cada sesión, tendrás la oportunidad de comprender y aplicar cómo la inteligencia artificial se utiliza en diversos ámbitos de la vida diaria. Este curso se lleva a cabo de manera sincrónica en Twitch y, posteriormente, estará disponible en YouTube. 
+Auscultando las Redes Neuronales con Python es un curso teórico-práctico desarrollado por el Semillero de Investigación en Computación Cuántica y sus Centros de Excelencia en colaboración con la Universidad Nacional de Colombia. A lo largo de cada sesión, tendrás la oportunidad de comprender y aplicar cómo la inteligencia artificial se utiliza en diversos ámbitos de la vida diaria.
+
+Este curso se lleva a cabo de manera sincrónica en Twitch y, posteriormente, estará disponible en YouTube. 
 Al completar el curso, podrás realizar un examen de conocimientos para obtener un certificado del Semillero de Investigación Quantum Computing.
 
 
