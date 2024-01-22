@@ -8,8 +8,7 @@ Al completar el curso, podrás realizar un examen de conocimientos para obtener 
 
 ### Contenido
 
-Notebooks para el curso de Inteligencia Artificial llevado a cabo en enero de 2024 por el semillero Quantum Computing UNAL.
-Apoyan la Universidad Nacional de Colombia, el centro de excelencia en computación cuántica e inteligencia artificial y el centro de excelencia en tecnologías cuánticas y sus aplicaciones a metrología.
+En este repositorio, encontrarás los cuadernos de práctica correspondientes a cada módulo. Puedes acceder a ellos en modo de solo lectura; sin embargo, te recomendamos que hagas una copia y los ejecutes directamente en tu ordenador. De esta manera, podrás realizar modificaciones y experimentar con los ejercicios que hemos preparado para ti.
 
 
 ## Sitio web
