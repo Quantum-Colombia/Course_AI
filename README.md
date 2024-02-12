@@ -29,7 +29,7 @@ En este repositorio, encontrarás los cuadernos de práctica correspondientes a 
 
 ## Licencia
 
-Este proyecto está sujeto a la licencia CC0 1.0 Universal Creative Commons License.
+Este proyecto está sujeto a la licencia MIT License Copyright (c) 2024 Quantum Computing
 
 ## Agradecimientos
 
